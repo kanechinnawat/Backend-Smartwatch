@@ -1,1 +1,1 @@
-These code files, originally developed by Komet Prakopphon, serve as the control system for the clock. I am building upon this foundation to develop the backend and other related components.
+These code modules handle the clock's core control systems, specifically interfacing with various sensors to monitor Heart Rate and analyzing spatial angles to provide fall detection capabilities.
